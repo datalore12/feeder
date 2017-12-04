@@ -12,4 +12,4 @@ r = requests.put(url = "http://192.168.1.70/api/qG5Y5IyFuKus5eia9-7XPnISd4hhWiHf
                		 		"on": True
 				 	})
 				)
-print r.json
+#print r.json
